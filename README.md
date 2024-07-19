@@ -19,7 +19,7 @@ A simple web application to download YouTube playlists using `yt-dlp`.
 1. **Clone the Repository**
 
    ```sh
-   git clone <https://github.com/yourusername/youtube-playlist-downloader.git>
+   git clone https://github.com/Akanksha54/PHP-PLaylist-saver/
    cd youtube-playlist-downloader
 
 ```
